@@ -1,0 +1,24 @@
+# First Degree Heart Block
+PR interval > 200ms (five small squares)
+- There is delay, without interruption, in conduction from atria to ventricles
+- ‘Marked’ first degree heart block is present if PR interval > 300ms
+- Increased vagal tone
+- Athletic training
+- Inferior MI
+- Mitral valve surgery
+- Myocarditis (e.g. Lyme disease)
+- Electrolyte disturbances (e.g. Hyperkalaemia)
+- AV nodal blocking drugs (beta-blockers, calcium channel blockers, digoxin, amiodarone)
+- As an isolated finding this is a benign entity that does not cause haemodynamic instability
+- No specific treatment is required
+- Marked first degree heart block
+- PR interval > 300 ms, P waves are buried in the preceding T wave
+- Sinus bradycardia with 1st degree AV block
+- PR interval > 300 ms
+- Normal sinus rhythm with 1st degree AV block
+- PR interval 260 ms
+- AV block: 2nd degree, Mobitz I
+- AV block: 2nd degree, Mobitz II
+- AV block: 2nd degree, “fixed ratio blocks” (2:1, 3:1)
+- AV block: 2nd degree, “high grade AV block”
+- AV block: 3rd degree (complete heart block)

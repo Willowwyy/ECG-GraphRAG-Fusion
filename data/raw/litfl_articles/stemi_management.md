@@ -1,0 +1,128 @@
+# STEMI Management
+
+- Chris Nickson
+OVERVIEW
+- STEMI is a type of acute coronary syndrome that requires emergency reperfusion therapy
+- Definition and assessment of STEMI is described in Acute Coronary Syndromes
+MANAGEMENT
+Initial management
+- All patients must be triaged to a monitored resuscitation bay
+- IV access, and blood tests taken
+- Oxygen therapy avoid routine use of oxygen therapy among patients with SaO2 > 93 %use when the SaO2 is below this level (or if the patient is shocked) (unless COPD or other easons for a modified SaO2 target)
+- avoid routine use of oxygen therapy among patients with SaO2 > 93 %
+- use when the SaO2 is below this level (or if the patient is shocked) (unless COPD or other easons for a modified SaO2 target)
+- Opioid analgesia is preferred to nitrates for the initial control of pain in the setting of STEMI.
+- e.g. IV morphine boluses titrated to clinical effect: 2.5 to 5mg IV as an initial dose, then titrated to effect every 5 to 10 minutes with further incremental doses of 2.5 to 5mg IVIn elderly patients or those with cardiorespiratory compromise, an initial morphine dose of less than 2.5mg IV and incremental doses of 0.5 to 1mg should be considered
+- 2.5 to 5mg IV as an initial dose, then titrated to effect every 5 to 10 minutes with further incremental doses of 2.5 to 5mg IV
+- In elderly patients or those with cardiorespiratory compromise, an initial morphine dose of less than 2.5mg IV and incremental doses of 0.5 to 1mg should be considered
+- If morphine is contraindicated, consider fentanyl at 25 to 50 micrograms IV as initial equivalent dose.
+- Anti-emetic as required: IV 10 mg metoclopromide or IV 12.5 mg prochlorperazine
+- IV 10 mg metoclopromide or IV 12.5 mg prochlorperazine
+Further management of STEMI
+- GTN If required in the setting of a STEMI this should be given as an IV infusion, rather than topically or sublinguallyIndications: Pain, not controlled by adequate doses of opioid analgesia.Acute severe hypertensionAcute cardiogenic pulmonary edema associated with hypertension
+- If required in the setting of a STEMI this should be given as an IV infusion, rather than topically or sublingually
+- Indications: Pain, not controlled by adequate doses of opioid analgesia.Acute severe hypertensionAcute cardiogenic pulmonary edema associated with hypertension
+- Pain, not controlled by adequate doses of opioid analgesia.
+- Acute severe hypertension
+- Acute cardiogenic pulmonary edema associated with hypertension
+- In all patients with possible ACS and without genuine contraindications, aspirin dissolved or chewed) should be given as soon as possible after presentation
+- Additional antiplatelet and anticoagulation therapy, or other therapies such as beta-blockers, should not be given to patients without a confirmed or probable diagnosis of ACS.
+- In STEMI give: Aspirin 300 mg po then 100 – 150 mg daily thereafter.Aspirin is then continued indefinitely unless it is not tolerated or an indication for anticoagulation becomes apparent.Note that other NSAIDs should not be given due to an increased risk of MACE (i.e major adverse cardiac event) in patients subsequently shown to have ACS.
+- Aspirin 300 mg po then 100 – 150 mg daily thereafter.
+- Aspirin is then continued indefinitely unless it is not tolerated or an indication for anticoagulation becomes apparent.
+- Note that other NSAIDs should not be given due to an increased risk of MACE (i.e major adverse cardiac event) in patients subsequently shown to have ACS.
+- loading dose, 180 mg followed by 90 mg B.D
+- Careful assessment of bleeding risk should be undertaken before using these agents.
+- Dual antiplatelet therapy (i.e. with aspirin and a P2Y12 inhibitor (clopidogrel or ticagrelor) should be prescribed for up to 12 months in patients with confirmed ACS, regardless of whether coronary revascularisation was performed. The use of Prasugrel for up to 12 months should be confined to patients receiving PCI.
+- Consider continuation of dual antiplatelet therapy beyond 12 months if ischaemic risks outweigh the bleeding risk of P2Y12 inhibitor therapy; conversely, consider discontinuation if bleeding risk outweighs ischaemic risks.
+- Clopidogrel is used in patients undergoing fibrinolysis, (more experience with this agent) or if there are specific CI to ticagrelor or prasugrel Avoid if emergency coronary artery bypass grafting is likelyGive loading dose, 300-600 mg orally, then 75 mg daily
+- Avoid if emergency coronary artery bypass grafting is likely
+- Give loading dose, 300-600 mg orally, then 75 mg daily
+- Heparin or enoxaparin With PCI Heparin (i.e. “unfractionated”) bolus dose of 5000 units should be given in cases of patients who are to receive PCI for their STEMI. With fibrin-specific fibrinolysis Heparin bolus loading dose with the first fibrinolytic dose and then commence heparin infusion Alternatively: Enoxaparin, 1 mg/kg SC (or a reduced dose, 0.75 mg/kg SC in the elderly or those with renal impairment) 12 hourly Heparin or enoxaparin is not required in patients with successful revascularization and without other indication for anticoagulation
+- With PCI Heparin (i.e. “unfractionated”) bolus dose of 5000 units should be given in cases of patients who are to receive PCI for their STEMI.
+- Heparin (i.e. “unfractionated”) bolus dose of 5000 units should be given in cases of patients who are to receive PCI for their STEMI.
+- With fibrin-specific fibrinolysis Heparin bolus loading dose with the first fibrinolytic dose and then commence heparin infusion
+- Heparin bolus loading dose with the first fibrinolytic dose and then commence heparin infusion
+- Alternatively: Enoxaparin, 1 mg/kg SC (or a reduced dose, 0.75 mg/kg SC in the elderly or those with renal impairment) 12 hourly
+- Enoxaparin, 1 mg/kg SC (or a reduced dose, 0.75 mg/kg SC in the elderly or those with renal impairment) 12 hourly
+- Heparin or enoxaparin is not required in patients with successful revascularization and without other indication for anticoagulation
+- An IV glycoprotein IIb/IIIa inhibitor in combination with heparin is recommended at the time of PCI among patients: With high risk clinical and angiographic characteristics.Who continue to have ischemia despite other treatments.
+- With high risk clinical and angiographic characteristics.
+- Who continue to have ischemia despite other treatments.
+- Agents available include: Abciximab, (Trade name Reopro)Eptifibatide (Trade name Integrilin)Tirofiban, (Trade name Aggrastat)
+- Abciximab, (Trade name Reopro)
+- Eptifibatide (Trade name Integrilin)
+- Tirofiban, (Trade name Aggrastat)
+- The need for, and the specific agent to be used, will be determined by the treating cardiologist.
+- The known benefits of using these agents in the setting of an acute PCI, must be balanced against the risk of bleeding in each individual case.
+- With fibrin-specific fibrinolysis, (i.e tPA, tenecteplase or reteplase): A glycoprotein IIb/IIIa inhibitor should not be used in patients who undergo fibrinolysis therapy.
+- A glycoprotein IIb/IIIa inhibitor should not be used in patients who undergo fibrinolysis therapy.
+Reperfusion Strategy
+- All patients who present within 12 hours of symptom onset of STEMI should be considered for a reperfusion strategy, unless they have severe co-morbidities.
+- There are ongoing symptoms
+- There is ongoing electrical and /or hemodynamic (cardiogenic shock) instability.
+- For reperfusion therapy after 12 hours PCI is preferred over thrombolysis.
+- Choice of Reperfusion Strategy The ideal treatment for all STEMIs is acute PCI or in some cases emergency CABGsPrimary PCI is preferred for reperfusion therapy in patients with STEMI if it can be performed within 90 minutes of first medical contactIf this time frame is not possible, then fibrinolytic therapy is preferred for those without contraindications.
+- The ideal treatment for all STEMIs is acute PCI or in some cases emergency CABGs
+- Primary PCI is preferred for reperfusion therapy in patients with STEMI if it can be performed within 90 minutes of first medical contact
+- If this time frame is not possible, then fibrinolytic therapy is preferred for those without contraindications.
+- PCI / CABGs Any patient identified as having a STEMI should prompt activation of a “CODE STEMI” responseNote that “on site” cardiac surgical backup is not considered essential for a PCI intervention.Whilst on site cardiac surgical backup is not essential, networks of urgent referral nonetheless need to be in place.CAGS is considered in cases of: Failed PCI, (ongoing symptoms/ instability)Some complications following PCI.Suitable coronary vessel anatomy discovered on angiography, not readily amenable to PCI
+- Any patient identified as having a STEMI should prompt activation of a “CODE STEMI” response
+- Note that “on site” cardiac surgical backup is not considered essential for a PCI intervention.
+- Whilst on site cardiac surgical backup is not essential, networks of urgent referral nonetheless need to be in place.
+- CAGS is considered in cases of: Failed PCI, (ongoing symptoms/ instability)Some complications following PCI.Suitable coronary vessel anatomy discovered on angiography, not readily amenable to PCI
+- Failed PCI, (ongoing symptoms/ instability)
+- Some complications following PCI.
+- Suitable coronary vessel anatomy discovered on angiography, not readily amenable to PCI
+- Thrombolysis There are 3 fibrin-specific fibrinolytic agents available in Australia: tPA (Trade name Alteplase) – InfusionTenecteplase (Trade name Metalyse) – Single bolus doseReteplase (Trade name Rapilysin) -Two standard bolus doses 30 minutes apart The older non-fibrin specific streptokinase is no longer used.
+- There are 3 fibrin-specific fibrinolytic agents available in Australia: tPA (Trade name Alteplase) – InfusionTenecteplase (Trade name Metalyse) – Single bolus doseReteplase (Trade name Rapilysin) -Two standard bolus doses 30 minutes apart
+- tPA (Trade name Alteplase) – Infusion
+- Tenecteplase (Trade name Metalyse) – Single bolus dose
+- Reteplase (Trade name Rapilysin) -Two standard bolus doses 30 minutes apart
+- The older non-fibrin specific streptokinase is no longer used.
+- If there are absolute contra-indications to thrombolysis, PCI remains the only option.
+- If there are relative contra-indications to thrombolysis, treatment is more problematic and the potential risks must be weighed against the potential benefit on an individual basis.
+- Among patients treated with fibrinolytic therapy who are not in a PCI-capable hospital, early or immediate transfer to a PCI capable hospital for angiography, and PCI if indicated, within 24 hours is recommended.
+- Among patients treated with fibrinolytic therapy, for those with ≤ 50 % ST recovery at 60 – 90 minutes and/or with haemodynamic instability, immediate transfer for angiography with a view to rescue angioplasty is recommended.
+- Patients with minor infarctions (especially inferior) and severe co-morbidities, especially if they also have risk factors for intra-cranial haemorrhage, (age over 75 years, female, smaller sized patients, prior stroke of any type, SP > 160 mmHg) should not be thrombolysed. These patients are best treated with either PCI or conservatively with aspirin and clexane.
+- Failed Thrombolysis This can only be judged definitively by coronary angiography.Indications that reperfusion has been unsuccessful include: Failure of the relief of ischemic chest pain.Failure of the restoration of hemodynamic / electrical stability.Failure of resolution of S-T segment elevation, (as above)
+- This can only be judged definitively by coronary angiography.
+- Indications that reperfusion has been unsuccessful include: Failure of the relief of ischemic chest pain.Failure of the restoration of hemodynamic / electrical stability.Failure of resolution of S-T segment elevation, (as above)
+- Failure of the relief of ischemic chest pain.
+- Failure of the restoration of hemodynamic / electrical stability.
+- Failure of resolution of S-T segment elevation, (as above)
+Further Secondary Prevention medications:
+- Statin Initiate and continue indefinitely, the highest tolerated dose of an HMG-CoA (3-hydroxy-3- methylglutaryl-coenzyme A) reductase inhibitor (statin) for a patient following hospitalization with ACS, unless contraindicated or there is a history of intolerance.There is additional benefit from progressive lowering of cholesterol levels, with no apparent lower limit. Within the context of an individualized care plan, a target low density lipoprotein cholesterol level of less than 1.8 mmol/L is suggested in the first instance.
+- Initiate and continue indefinitely, the highest tolerated dose of an HMG-CoA (3-hydroxy-3- methylglutaryl-coenzyme A) reductase inhibitor (statin) for a patient following hospitalization with ACS, unless contraindicated or there is a history of intolerance.
+- There is additional benefit from progressive lowering of cholesterol levels, with no apparent lower limit. Within the context of an individualized care plan, a target low density lipoprotein cholesterol level of less than 1.8 mmol/L is suggested in the first instance.
+- Beta Blocker Initiate treatment with vasodilatory b-blockers in patients with reduced left ventricular systolic function (left ventricular ejection fraction < 40%) unless contraindicated
+- Initiate treatment with vasodilatory b-blockers in patients with reduced left ventricular systolic function (left ventricular ejection fraction < 40%) unless contraindicated
+- ACEI/ Sartan Initiate and continue angiotensin-converting enzyme inhibitors (or angiotensin receptor blockers) in patients with evidence of heart failure, left ventricular systolic dysfunction, diabetes, anterior MI or co-existent hypertension.
+- Initiate and continue angiotensin-converting enzyme inhibitors (or angiotensin receptor blockers) in patients with evidence of heart failure, left ventricular systolic dysfunction, diabetes, anterior MI or co-existent hypertension.
+Disposition
+- All STEMIs should be identified in a timely manner, and CODE STEMI procedures immediately activated according to local hospital practice. Patients are admitted to CCU following percutaneous intervention.
+- Occasionally some patients will be identified following coronary angiography, that will require transfer to a centre for Cardiac Bypass Graft Surgery.
+- Once the decision has been made to thrombolyse, this should be done in the ED as soon as possible. Once the patient has been thrombolysed and is stable they should be admitted to CCU.
+- Following discharge, attendance at cardiac rehabilitation or undertaking a structured secondary prevention service is recommended for all patients hospitalized with ACS
+LITFL
+- Percutaneous Coronary Intervention (PCI) (CCC)
+- Acute Coronary Syndromes (CCC)
+- OMI: Replacing the STEMI misnomer
+Journal articles
+- Chew DP, Scott IA, Cullen L, et al. National Heart Foundation of Australia and Cardiac Society of Australia and New Zealand: Australian clinical guidelines for the management of acute coronary syndromes 2016. The Medical journal of Australia. 205(3):128-33. 2016. [pubmed]
+- Chew DP, Scott IA, Cullen L, et al. National Heart Foundation of Australia & Cardiac Society of Australia and New Zealand: Australian Clinical Guidelines for the Management of Acute Coronary Syndromes 2016. Heart, lung & circulation. 25(9):895-951. 2016. [pubmed] [free full text]
+- Thygesen K, Alpert JS, Jaffe AS. Third universal definition of myocardial infarction. Circulation. 126(16):2020-35. 2012. [pubmed]
+
+## Critical Care
+
+Compendium
+Chris is an Intensivist and ECMO specialist at The Alfred ICU, where he is Deputy Director (Education). He is a Clinical Adjunct Associate Professor at Monash University, the Lead for the Clinician Educator Incubator programme, and a CICM First Part Examiner.
+He is an internationally recognised Clinician Educator with a passion for helping clinicians learn and for improving the clinical performance of individuals and collectives. He was one of the founders of the FOAM movement (Free Open-Access Medical education) has been recognised for his contributions to education with awards from ANZICS, ANZAHPE, and ACEM.
+His one great achievement is being the father of three amazing children.
+On Bluesky, he is @precordialthump.bsky.social and on the site that Elon has screwed up, he is @precordialthump.
+| INTENSIVE | RAGE | Resuscitology | SMACC
+
+### One comment
+
+- Roaa mahmoud June 18, 2024 / 22:47 Reply Thanks
+Thanks

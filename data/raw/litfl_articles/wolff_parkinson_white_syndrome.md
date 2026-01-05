@@ -1,0 +1,12 @@
+# Wolff–Parkinson–White syndrome
+
+Wolff-Parkinson-White (WPW) Syndrome is a combination of the presence of a congenital accessory pathway and episodes of tachyarrhythmia.
+WPW syndrome is characterized by a double stimulation of the ventricles. A premature conduction wave via accessory pathways (pre-excitation) stimulates the portions of the ventricles nearest the atrium; then the ventricles depolarize as a result of the conduction wave which proceeds normally through the atrioventricular (AV) node.
+The clinical significance of this syndrome depends on the appearance of (supraventricular) reentry tachycardias.
+1892–1893 – On November 12, 1892 Albert Frank Stanley Kent (1863-1958) presented to the Physiological Society at St Mary’s’s Hospital, London his discovery of muscular connections bridging the atria and ventricles in mammalian hearts. He identified three distinct muscular bridges: (1) right lateral, (2) left lateral, and (3) septal and later published his Researches on the Structure and Function of the Mammalian Heart in the Journal of Physiology (1893). This preceded the work of Wilhelm His Jr. (1863–1934) who described the atrioventricular bundle (bundle of His), believing this to be the only communication between atria and ventricles.
+1909 – Retrospective review of published case reports looking for evidence of ventricular preexcitation shows the earliest example of WPW published is from August Hoffmann (1862-1929) published in MMW 1909; 56(2): 2259-2262
+1913 – AF Stanley Kent further described, in the human heart, a communication between the right atrium and ventricle, in the lateral aspect.
+The muscular connection between auricle and ventricle in the heart of man is not single and confined to the A.V. bundle, but it is multiple. One point at which a muscular connection between auricle and ventricle exists is situated at the right margin of the heart. The coordinated action of the chambers of the heart is to some extent dependent upon the integrity of muscular connections other than that which exists in the A.V. bundle. It is proposed, for purposes of identification, to refer to the connection described as the “right lateral auriculo-ventricular” connection.
+The short PR interval and slurred initial portion of the QRS complex were first noted by:
+1913 – Cohn and Fraser – Paroxysmal tachycardia and the effect of stimulation of the vagus nerve by pressure. Heart. 1913
+1915 – Frank Norman Wilson (1890–1952) published a case in which ‘the vagus influenced the form of the ventricular complex of the electrocardiogram‘
