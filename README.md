@@ -32,11 +32,12 @@
 ### 1. 复杂逻辑推理演示
 > **用户提问**: *"What causes AIVR and how is it related to MI?"* (AIVR的成因是什么？它与心肌梗死有什么关系？)
 
-![Demo](assets/demo.gif)
+![主页展示](assets/主页.png)
+点击下载或观看完整演示视频：[ECGGraphRAG.mp4](assets/ECGGraphRAG.mp4)
 *(演示：系统通过 Router 识别意图，调用图谱发现 "AIVR --[TREATED_WITH]--> Restore perfusion"，从而推断出其与 MI 再灌注的关联)*
 
 ### 2. 系统架构图
-![Architecture](assets/architecture.png)
+![ECG RAG流程图](assets/ECGRAG流程图.png)
 
 ## 🛠️ 技术栈
 
@@ -57,7 +58,7 @@
 
 1.  **克隆仓库**
     ```bash
-    git clone [https://github.com/YourUsername/ECG-GraphRAG-Fusion.git](https://github.com/YourUsername/ECG-GraphRAG-Fusion.git)
+    git clone [https://github.com/Willowwyy/ECG-GraphRAG-Fusion.git](https://github.com/Willowwyy/ECG-GraphRAG-Fusion.git)
     cd ECG-GraphRAG-Fusion
     ```
 
